@@ -30,3 +30,4 @@ OnePlus 3T was announced in November 2016. Release date was November 2016.
 ## Device picture
 
 ![OnePlus 3](https://content.oneplus.net/skin/frontend/oneplus2015/default/images/oneplus3/oxygenos/parameter.png "OnePlus 3 in grey")
+# device_oneplus_oneplus3
